@@ -34,3 +34,4 @@ C:\Users\mrsol\source\repos\LanguageServiceAPI\LanguageServiceAPI\obj\Debug\net8
 C:\Users\mrsol\source\repos\LanguageServiceAPI\LanguageServiceAPI\obj\Debug\net8.0\LanguageServiceAPI.pdb
 C:\Users\mrsol\source\repos\LanguageServiceAPI\LanguageServiceAPI\obj\Debug\net8.0\LanguageServiceAPI.genruntimeconfig.cache
 C:\Users\mrsol\source\repos\LanguageServiceAPI\LanguageServiceAPI\obj\Debug\net8.0\ref\LanguageServiceAPI.dll
+C:\Users\mrsol\source\repos\LanguageServiceAPI\LanguageServiceAPI\obj\Debug\net8.0\LanguageServiceAPI.sourcelink.json
