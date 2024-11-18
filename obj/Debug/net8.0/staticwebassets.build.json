@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c3CBNptCWSwCY3PHbTHs8huqEBMbLuJsFtqxp86vYaQ=",
+  "Source": "LanguageServiceAPI",
+  "BasePath": "_content/LanguageServiceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
